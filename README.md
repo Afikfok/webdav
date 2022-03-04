@@ -9,6 +9,8 @@ pkg install git
 
 pkg install bash
 
+pkg install curl
+
 pkg install ruby
 
 gem install lolcat
